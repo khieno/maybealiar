@@ -11,7 +11,7 @@ name: 第五太阳纪
 description: 存档小书柜。
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+url: fifth-solar-period.top
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
@@ -24,7 +24,7 @@ baseurl: /theFifthSolarYear
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/IMG_9926_副本.jpg
+avatar: https://github.com/khieno/theFifthSolarYear/blob/master/images/IMG_9926_%E5%89%AF%E6%9C%AC.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
