@@ -32,13 +32,13 @@ favicon: https://s3.bmp.ovh/imgs/2023/03/13/eafa0071c225da8a.png
 
 # 菜单中的按钮
 navigation:
-  - name: 首页
+  - name: Home
     url: /
-  - name: 关于
+  - name: About
     url: /about
-  - name: 归档
+  - name: Archieve
     url: /archive
-  - name: 标签
+  - name: TAGS
     url: /tags
 
 # 每页的文章数
@@ -66,7 +66,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: © by daiwuzi 2023
+footer-text: © by daiwuzi 2023 (◦˘ З(◦'ںˉ◦)♡
 
 #
 # !! 以下所有设置都不需要更改 !!
