@@ -8,7 +8,8 @@
 
 # 描述/签名
 name: ( ˘ ³˘)♡
-description: ♡
+# 啥时候想到用什么简介了就把下面的井号删了再添上去
+# description: ♡
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: http://daiwuzi.top
@@ -59,10 +60,10 @@ footer-links:
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
-  rss: #随便填点啥RSS就能用了
+  rss: daiwuzi#随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
-  twitter: # https://www.twitter.com/<your_twitter_username> 
+  twitter: khieno_# https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
