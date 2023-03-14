@@ -8,7 +8,7 @@ permalink: /about/
 <br><br>
 这是用于个人文档和可能存在的绘图（包括但不限于同人、原创，等等）堆放的存档仓库。
 <br><br>
-![](https://s3.bmp.ovh/imgs/2023/03/14/4afe464918f6f0bc.png),![](https://s3.bmp.ovh/imgs/2023/03/14/721e7a986bd623ed.png),![](https://s3.bmp.ovh/imgs/2023/03/14/6d82b9c09b835c55.png)
+![](https://s3.bmp.ovh/imgs/2023/03/14/5921072b07812b9d.png)![](https://s3.bmp.ovh/imgs/2023/03/14/be97d5668730f1e9.png)![](https://s3.bmp.ovh/imgs/2023/03/14/5049c0e566962b68.png)
 
 
 <br><br>
