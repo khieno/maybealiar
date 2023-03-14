@@ -8,13 +8,7 @@ permalink: /about/
 <br><br>
 这是用于个人文档和可能存在的绘图（包括但不限于同人、原创，等等）堆放的存档仓库。
 <br><br>
-<figure class="third">
-    <img src="https://s3.bmp.ovh/imgs/2023/03/14/5921072b07812b9d.png">
-    <img src="https://s3.bmp.ovh/imgs/2023/03/14/be97d5668730f1e9.png">
-    <img src="https://s3.bmp.ovh/imgs/2023/03/14/5049c0e566962b68.png">
-</figure>
-
-
+![](https://s3.bmp.ovh/imgs/2023/03/14/2eb887ad3f914ffe.png)
 <br><br>
 **如果您想和我进行飞鸽传情（？）的交流，这里是我的个人提问箱↓：**
 <br><br>
