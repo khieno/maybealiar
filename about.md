@@ -9,7 +9,7 @@ permalink: /about/
 这是用于个人文章和可能存在的绘图（包括但不限于同人、原创，等等）堆放的存档仓库。
 <br><br>
 ![](https://s3.bmp.ovh/imgs/2023/03/26/9b830655c0369564.png)
-<br><br>
+
 **如果您阅读纯享版的文章合集，这里是我的AO3主页（目前也在缓慢施工中……）↓：**
 <br><br>
 [khieno](https://archiveofourown.org/users/khieno/works "khieno")
