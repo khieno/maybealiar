@@ -12,23 +12,14 @@ tags: [林方]
 toc: true
 ---
 
-#### 2022年8月到10月的枋绘log
-
-
-![2](E:\Drawings\Graffiti\2022\2.png)
-
-![3](E:\Drawings\Graffiti\2022\3.png)
-
-![4](E:\Drawings\Graffiti\2022\4.png)
-
-![5](E:\Drawings\Graffiti\2022\5.png)
-
-![6](E:\Drawings\Graffiti\2022\6.png)
-
-![7](E:\Drawings\Graffiti\2022\7.png)
-
-![8](E:\Drawings\Graffiti\2022\8.png)
-
-![9](E:\Drawings\Graffiti\2022\9.png)
-
-![10](E:\Drawings\Graffiti\2022\10.png)
+#### 2022年8月到10月的枋绘log1
+<br><br>
+![](https://s3.bmp.ovh/imgs/2023/03/30/2bbc22d9b2d401c8.png)
+![](https://s3.bmp.ovh/imgs/2023/03/30/4efeeaa85e9abd63.png)
+![](https://s3.bmp.ovh/imgs/2023/03/30/9507c83d2c8a3fa6.png)
+![](https://s3.bmp.ovh/imgs/2023/03/30/19c60c11c7ea53bd.png)
+![](https://s3.bmp.ovh/imgs/2023/03/30/25e56fd2f552c6cc.png)
+![](https://s3.bmp.ovh/imgs/2023/03/30/920f150f8340eec0.png)
+![](https://s3.bmp.ovh/imgs/2023/03/30/10f8e7719fee8819.png)
+![](https://s3.bmp.ovh/imgs/2023/03/30/b68f5b922f87a927.png)
+![](https://s3.bmp.ovh/imgs/2023/03/30/812456d8e012f736.png)
