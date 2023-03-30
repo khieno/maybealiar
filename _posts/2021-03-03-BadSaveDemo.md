@@ -8,7 +8,7 @@ date: 2021-03-03
 
 Author: 克诺
 
-tags: [稻草人团][花店组][安纳托尔][南希]
+tags: [花店组]
 
 toc: true
 
