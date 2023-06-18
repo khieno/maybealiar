@@ -33,13 +33,13 @@ favicon: https://s3.bmp.ovh/imgs/2023/03/13/eafa0071c225da8a.png
 
 # 菜单中的按钮
 navigation:
-  - name: 主页
+  - name: Home
     url: /
-  - name: 介绍
+  - name: Khieno
     url: /about
-  - name: 归档
+  - name: Logs
     url: /archive
-  - name: 标签
+  - name: Tags
     url: /tags
 
 # 每页的文章数
