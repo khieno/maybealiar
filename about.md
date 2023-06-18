@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About Blogger(❁´3`❁)
+title: 您好(❁´3`❁)
 permalink: /about/
 ---
 ![](https://s3.bmp.ovh/imgs/2023/03/26/074a62d53d452a04.gif)
 
 ![](https://s3.bmp.ovh/imgs/2023/03/14/5049c0e566962b68.png)您好，我是克诺，欢迎光临✧*｡٩(ˊᗜˋ*)و✧*｡
 <br><br>
-这是一枚用于堆放的存档仓库。
+这是一个用于胡乱堆放各种的简陋仓库（保质期一年）
 <br><br>
 ![](https://s3.bmp.ovh/imgs/2023/03/26/9b830655c0369564.png)
 
