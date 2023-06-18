@@ -33,13 +33,13 @@ favicon: https://s3.bmp.ovh/imgs/2023/03/13/eafa0071c225da8a.png
 
 # 菜单中的按钮
 navigation:
-  - name: Home
+  - name: 主页
     url: /
-  - name: About
+  - name: 介绍
     url: /about
-  - name: Archieve
+  - name: 归档
     url: /archive
-  - name: TAGS
+  - name: 标签
     url: /tags
 
 # 每页的文章数
@@ -50,7 +50,7 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: daiwuzi #请输入你的微博个性域名 https://www.weibo.com/<>
+  weibo: u/7608134914 #请输入你的微博个性域名 https://www.weibo.com/<>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email:  #youremailaddress@mail.com
