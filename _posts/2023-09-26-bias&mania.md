@@ -7,7 +7,7 @@ date: 2023-09-26
 
 Author: 克诺
 
-tags: [ccccc超新星纪元]
+tags: [超新星纪元]
 
 toc: true
 
