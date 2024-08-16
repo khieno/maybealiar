@@ -3,7 +3,7 @@ layout: post
 
 title: POISONOUS ROOT 
 
-date: 2024-03-21
+date: 2024-08-17
 
 Author: 克诺
 
@@ -11,7 +11,7 @@ tags: [稻草人团]
 
 toc: true
 ---
-#### 参与奈阿合志《Portrait en feu》的解禁。
+#### 奈阿合志《Portrait en feu》的解禁稿。
 
 
 他左手拄杖，戴着丝绸手套的右手用力推开宅邸这扇厚重华丽的大门。此时夜幕深沉，夜色趁洞张的玄关涌进屋内，将里面的一切陈设吞入幽深死寂，显出一副毫无生气的寂寥。
