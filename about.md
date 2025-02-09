@@ -5,6 +5,11 @@ permalink: /about/
 ---
 ![](https://s3.bmp.ovh/imgs/2023/03/26/074a62d53d452a04.gif)
 
+→本站发布所有文章属于「Khieno」。
+<br><br>
+→阅读请参照：
+左侧Home/Logs/Tags
+<br><br>
 您好，我是克诺。
 <br><br>
 新的一年也没把个站建起来，就这样吧^^。
