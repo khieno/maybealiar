@@ -7,9 +7,9 @@ date: 2023-09-26
 
 Author: 克诺
 
-tags: [超新星纪元]
+tags: [超新星纪元,沃贝]
 
-toc: true
+toc: false
 
 ---
 
