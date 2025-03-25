@@ -1,12 +1,10 @@
 ---
 layout: default
 ---
-
-
 <article class="posts">
   <h1>{{ page.title }}</h1>
 
-  <div clsss="meta">
+  <div class="meta">
     <span class="author">
       {{ page.author }}
     </span>
@@ -37,16 +35,16 @@ layout: default
 
 <div class="pagination">
   {% if page.previous.url %}
-    <span class="prev" >
+    <span class="prev">
       <a href="{{ site.url }}{{ site.baseurl }}{{ page.previous.url }}">
         ← 上一篇
       </a>
     </span>
   {% endif %}
   {% if page.next.url %}
-    <span class="next" >
+    <span class="next">
       <a href="{{ site.url }}{{ site.baseurl }}{{ page.next.url }}">
-        下一篇 →
+        下一篇 → 
       </a>
     </span>
   {% endif %}
