@@ -9,7 +9,7 @@ Author: 克诺
 
 tags: [稻草人团]
 
-toc: true
+toc: false
 ---
 #### 奈阿合志《Portrait en feu》的解禁稿。
 
