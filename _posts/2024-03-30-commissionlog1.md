@@ -8,7 +8,7 @@ date: 2024-03-30
 
 Author: 克诺
 
-tags: [林方][约稿]
+tags: [约稿]
 
 toc: true
 
