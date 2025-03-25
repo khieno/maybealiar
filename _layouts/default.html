@@ -32,20 +32,32 @@ var _hmt = _hmt || [];
 </script>
 
   {% include head.html %}
-  <div>蛸窝总访问量：<span id="total-visits">加载中^^...</span></div>
 
-<script>
-  function getTotalVisits() {
-    var _hmt = _hmt || [];
-    var totalCount = localStorage.getItem("site_total_visits") || 0;
-    totalCount++;
-    localStorage.setItem("site_total_visits", totalCount);
-    document.getElementById("total-visits").innerText = totalCount;
-  }
-  getTotalVisits();
-</script>
 
   <body>
+    <!-- 当前时间 -->
+<div id="current-time"></div>
+
+<!-- 统计访问量 -->
+<div>
+  蛸窝总访问量：<span id="busuanzi_value_site_pv">加载中^^...</span>
+</div>
+
+<!-- JavaScript 代码 -->
+<script>
+  // 更新时间
+  function updateTime() {
+    const now = new Date();
+    const formattedTime = now.toLocaleString('zh-CN', { hour12: false });
+    document.getElementById("current-time").innerText = "当前时间：" + formattedTime;
+  }
+  setInterval(updateTime, 1000);
+  updateTime();
+</script>
+
+<!-- 引入不蒜子统计 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
     {% include nav.html %}
 
     {% if page.toc==true %}
@@ -61,19 +73,7 @@ var _hmt = _hmt || [];
     </div>
 
     {% include analytics.html %}
-    <div id="current-time"></div>
-
-<script>
-  function updateTime() {
-    const now = new Date();
-    const formattedTime = now.toLocaleString('zh-CN', { hour12: false });
-    document.getElementById("current-time").innerText = "当前时间：" + formattedTime;
-  }
-
-  setInterval(updateTime, 1000);
-  updateTime();
-</script>
-
+ 
   </body>
 
   {% if page.toc==true %}
