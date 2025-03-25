@@ -1,18 +1,11 @@
 ---
 layout: default
 ---
-<div>本篇访问次数：<span id="page-views">加载中><...</span></div>
+<!-- 文章访问量 -->
+<div>
+  本篇访问次数：<span id="busuanzi_value_page_pv">加载中...</span>
+</div>
 
-<script>
-  function getPageViews() {
-    var path = window.location.pathname;
-    var views = localStorage.getItem(path) || 0;
-    views++;
-    localStorage.setItem(path, views);
-    document.getElementById("page-views").innerText = views;
-  }
-  getPageViews();
-</script>
 
 <article class="posts">
   <h1>{{ page.title }}</h1>
