@@ -5,11 +5,15 @@
 
   <!-- 统计访问量 -->
   <div>
-    蛸窝总访问量：<span id="busuanzi_value_site_pv">加载中^^...</span>
-    <span>本篇点击次数：<span id="busuanzi_value_page_pv">加载中...</span></span>
+    蛸窝总访问量：<span id="busuanzi_value_site_pv">加载中(〃´-ω･) ...</span>
 
   </div>
 </div>
+{% if page.layout == "post" %}
+  <div class="post-views">
+    本篇点击次数：<span id="busuanzi_value_page_pv">加载中( ･´ω`･ )...</span>
+  </div>
+{% endif %}
 
 <!-- 更新时间 JavaScript -->
 <script>
