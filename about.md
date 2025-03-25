@@ -21,7 +21,9 @@ permalink: /about/
 <br><br>
 ![](https://s3.bmp.ovh/imgs/2023/03/26/2d27c90e5c7ab085.gif)**我的`提问箱`↓：**
 <br><br>
-[Massacre.](https://pushoong.com/zh-hans/ask/2681902403 "Massacre.")
+[pushoong](https://pushoong.com/zh-hans/ask/2681902403 "pushoong")
+<br><br>
+[nekobox](https://box.n3ko.cc/_/massacre "nekobox")
 <br><br>
 ![](https://s3.bmp.ovh/imgs/2023/03/26/2d27c90e5c7ab085.gif)**我的QQ→`952868185` 欢迎扩列^^**
 <br><br>
