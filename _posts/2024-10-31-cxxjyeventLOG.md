@@ -2,7 +2,7 @@
 
 layout: post
 
-title: 坊主团约稿log
+title: 超新星纪元沃恩中心本宣log
 
 date: 2024-10-31
 
