@@ -5,12 +5,15 @@ permalink: /about/
 ---
 ![](https://s3.bmp.ovh/imgs/2023/03/26/074a62d53d452a04.gif)
 
-→本站发布所有文章属于「Khieno」。
+![](https://s3.bmp.ovh/imgs/2023/03/26/2d27c90e5c7ab085.gif)**本站发布所有文章属于`「Khieno」`。**
+
 <br><br>
-→阅读请参照：
+![](https://s3.bmp.ovh/imgs/2023/03/26/2d27c90e5c7ab085.gif)**阅读请参照：**
 左侧Home/Logs/Tags
 <br><br>
-您好，我是克诺。
+![](https://s3.bmp.ovh/imgs/2023/03/26/2d27c90e5c7ab085.gif)**站内图文未经同意`禁止转载`。No reproduction or republication without written permission.**
+<br><br>
+![](https://s3.bmp.ovh/imgs/2023/03/26/2d27c90e5c7ab085.gif)您好，我是克诺。
 <br><br>
 新的一年也没把个站建起来，就这样吧^^。
 <br><br>
