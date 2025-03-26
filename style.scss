@@ -269,6 +269,16 @@ img {
   margin: 0 0 1em;
   border-radius: 5px;
 }
+.gif-container {
+    display: flex;
+    justify-content: center; /* 居中显示 */
+    gap: 20px; /* GIF 之间的间距 */
+    margin-top: 20px; /* 与导航栏的间距 */
+}
+.gif-container img {
+    width: 150px; /* 适当调整大小 */
+    height: auto;
+}
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
