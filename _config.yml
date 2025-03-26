@@ -10,6 +10,7 @@
 name: ( ˘ ³˘)
 # 啥时候想到用什么简介了就把下面的井号删了再添上去
 description: ♡
+always all ways from these ruins
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: http://maybealiar.work
@@ -33,13 +34,13 @@ favicon: https://s3.bmp.ovh/imgs/2023/03/13/eafa0071c225da8a.png
 
 # 菜单中的按钮
 navigation:
-  - name: Home
+  - name: ❤Home
     url: /
-  - name: Khieno
+  - name: ♡Khieno
     url: /about
-  - name: Logs
+  - name: ❤Logs
     url: /archive
-  - name: Tags
+  - name: ♡Tags
     url: /tags
 
 # 每页的文章数
@@ -53,7 +54,7 @@ footer-links:
   weibo: u/7608134914 #请输入你的微博个性域名 https://www.weibo.com/<>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email:  #youremailaddress@mail.com
+  email: khieno@163.com #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: #https://github.com/<>
