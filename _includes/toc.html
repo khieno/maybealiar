@@ -1,0 +1,55 @@
+{% if page.show_toc %}
+  <div class="toc-container">
+    <h2>目录</h2>
+    <div id="toc"></div>
+  </div>
+
+  <!-- 生成目录的 JS -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      let tocContainer = document.getElementById("toc");
+      if (!tocContainer) return;
+
+      let headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+      if (headers.length === 0) return;
+
+      let tocList = document.createElement("ul");
+      headers.forEach((header, index) => {
+        let id = "toc-header-" + index;
+        header.id = id;
+
+        let tocItem = document.createElement("li");
+        tocItem.innerHTML = `<a href="#${id}">${header.innerText}</a>`;
+        tocList.appendChild(tocItem);
+      });
+
+      tocContainer.appendChild(tocList);
+    });
+  </script>
+
+  <style>
+    .toc-container {
+      border-left: 4px solid #007bff;
+      padding-left: 15px;
+      margin-bottom: 20px;
+    }
+    .toc-container h2 {
+      font-size: 1.2em;
+      margin-bottom: 10px;
+    }
+    .toc-container ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .toc-container li {
+      margin-bottom: 5px;
+    }
+    .toc-container a {
+      text-decoration: none;
+      color: #007bff;
+    }
+    .toc-container a:hover {
+      text-decoration: underline;
+    }
+  </style>
+{% endif %}
