@@ -8,7 +8,7 @@ date: 2021-01-08
 
 Author: 克诺
 
-tags: [稻草人团,花店组,unfinished]
+tags: [稻草人团,花店组,南希,安纳托尔,unfinished]
 
 toc: false
 
