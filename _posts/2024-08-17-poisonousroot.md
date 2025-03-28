@@ -7,7 +7,7 @@ date: 2024-08-17
 
 Author: 克诺
 
-tags: [稻草人团,奈阿]
+tags: [稻草人团,奈阿,奈亚,阿道夫]
 
 toc: false
 ---
