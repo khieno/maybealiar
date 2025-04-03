@@ -24,8 +24,7 @@ permalink: /about/
 [pushoong](https://pushoong.com/zh-hans/ask/2681902403 "pushoong")
 <br><br>
 [nekobox](https://box.n3ko.cc/_/massacre "nekobox")
-<br><br>
-![](https://s3.bmp.ovh/imgs/2025/03/28/2f931d4705de50ed.gif)**我的QQ→`952868185` 欢迎扩列^^**
+
 <br><br>
 如果您只是无意中点开，请随意^^
 <br><br>
