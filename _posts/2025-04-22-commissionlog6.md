@@ -4,7 +4,7 @@ layout: post
 
 title: 林方约稿log 
 
-date: 2025-03-25
+date: 2025-04-22
 
 Author: 克诺
 
@@ -14,7 +14,7 @@ toc: false
 
 ---
 
-#### 2023.5-2025.3个人私稿，仅供展示。
+#### 2023.5-2025.4个人私稿，仅供展示。
 
 **私人稿件，请勿二次上传/用作头像/壁纸**
 <br>
@@ -40,5 +40,9 @@ toc: false
 画师 noisy9p 
 ![IMG_7868.JPG](https://s3.bmp.ovh/imgs/2025/03/28/d0ae5e9078349683.jpg)
 ![IMG_7867.JPG](https://s3.bmp.ovh/imgs/2025/03/28/a2af05130e22bbfc.jpg)
+<br>
+画师 byakusai
+![](https://s3.bmp.ovh/imgs/2025/04/15/5e8b00c37689bc58.jpg)
+![](https://s3.bmp.ovh/imgs/2025/04/22/029af8830d28f9b3.jpg)
 
 
