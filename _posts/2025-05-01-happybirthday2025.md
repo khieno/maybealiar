@@ -2,7 +2,6 @@
 layout: post
 title: 生日快乐
 date: 2025-05-01 00:01:00 +0800
-author: 克诺
 tags: [全职高手, 林敬言, 生日快乐！, 稿件]
 toc: false
 ---
