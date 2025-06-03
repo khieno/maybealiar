@@ -17,11 +17,11 @@ permalink: /about/
 
 ![](https://s3.bmp.ovh/imgs/2025/03/28/2f931d4705de50ed.gif)**我的`AO3主页`↓（请给我点kudos谢谢><！）：**
 <br><br>
-[khieno](https://archiveofourown.org/users/khieno/works "khieno")
+临时隐藏了^^虽然应该无人在意。
 <br><br>
 ![](https://s3.bmp.ovh/imgs/2025/03/28/2f931d4705de50ed.gif)**我的`提问箱`↓：**
 <br><br>
-[pushoong](https://pushoong.com/zh-hans/ask/2681902403 "pushoong")
+[pushoong](https://pushoong.com/ask/2681902403/ "pushoong")
 <br><br>
 [nekobox](https://box.n3ko.cc/_/massacre "nekobox")
 
