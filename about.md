@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 欢迎光临，喜欢您来
+title: Always, and ALL WAYS...
 permalink: /about/
 ---
 ![](https://s3.bmp.ovh/imgs/2023/03/26/074a62d53d452a04.gif)
@@ -12,12 +12,14 @@ permalink: /about/
 ![](https://s3.bmp.ovh/imgs/2025/03/28/2f931d4705de50ed.gif)您好，我是克诺。
 <br>您点进了蛸窝介绍页，虽然没有什么好介绍的。
 <br>此处备份了一些同人文章/稿件。请随意观看^^
-<br>第四年了也没把个站认真维护过……就这样吧_(:з」∠)_ 
+<br>
 <br><br>
 
 ![](https://s3.bmp.ovh/imgs/2025/03/28/2f931d4705de50ed.gif)**我的`AO3主页`↓（请给我点kudos谢谢><！）：**
 <br><br>
-临时隐藏了^^虽然应该无人在意。
+[khieno](https://archiveofourown.org/users/khieno/works "khieno")
+<br><br>
+[hayashikou](https://archiveofourown.org/users/hayashikou/works "hayashikou")
 <br><br>
 ![](https://s3.bmp.ovh/imgs/2025/03/28/2f931d4705de50ed.gif)**我的`提问箱`↓：**
 <br><br>
