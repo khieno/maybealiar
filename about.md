@@ -23,9 +23,9 @@ permalink: /about/
 <br><br>
 ![](https://s3.bmp.ovh/imgs/2025/03/28/2f931d4705de50ed.gif)**我的`提问箱`↓：**
 <br><br>
-[massacre.](https://pushoong.com/ask/2681902403/ "massacre.")已停用
+[massacre](https://pushoong.com/ask/2681902403/ "massacre")已停用
 <br><br>
-[massacre](https://box.n3ko.cc/_/massacre "massacre")已停用
+[massacre.](https://box.n3ko.cc/_/massacre "massacre.")已停用
 <br><br>
 [magentaoctopus](https://box.n3ko.cc/_/magentaoctopus "magentaoctopus")
 
